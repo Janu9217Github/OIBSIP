@@ -15,14 +15,14 @@ function back(){
 }
 function equals(){
     var t=document.form.i.value;
-   if(t){
+if(t){
     
         document.form.i.value=eval(t);
     
 
-   }else{
+}else{
     document.form.i.value='Error';
     
 
-   }
+}
 }

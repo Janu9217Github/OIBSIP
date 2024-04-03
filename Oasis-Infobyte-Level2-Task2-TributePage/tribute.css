@@ -17,8 +17,8 @@ body{
     width: 60%;
     background-color: #fff;
     border-radius: 10px;
-   height: 550px;
-   box-shadow: 0 0 10px rgba(0,0,0,0.9);
+    height: 550px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.9);
   -moz-box-shadow: 0 0 10px rgba(0,0,0,0.9);
   -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.9);
   -o-box-shadow: 0 0 10px rgba(0,0,0,0.9);;
